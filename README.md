@@ -1,3 +1,4 @@
+
 # devops_task10
 # DevOps Internship - Task 10: Volumes & Networking
 **User:** Janzj
@@ -23,3 +24,6 @@
 ## 3. Evidence
 <img width="960" height="1020" alt="Screenshot 2026-01-31 100554" src="https://github.com/user-attachments/assets/532eac43-7b2d-4de9-8c8e-f612418ab49d" />
 <img width="960" height="1020" alt="Screenshot 2026-01-31 100235" src="https://github.com/user-attachments/assets/c760b2a5-bbf5-46d5-8141-0a57b5e5d8e9" />
+<img width="931" height="1020" alt="Screenshot 2026-01-31 101722" src="https://github.com/user-attachments/assets/1dc529a3-c103-4267-bc59-bf5a1006255c" />
+<img width="931" height="1020" alt="Screenshot 2026-01-31 101716" src="https://github.com/user-attachments/assets/a325c08d-0757-4463-b62b-2f84790ae0e9" />
+
